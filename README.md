@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me abou<br>Hi, I'm Manthan! I have a technical background and hold a post graduate (P.G) degree in Big data and cloud computing(Conestoga College), and Bacholers in Computer Engineering. I had worked for 2 years in Data Science playing roles as Junior Data Analyst.t<br>⚡ Fun fact
+Hi, I'm Manthan! I have a technical background and hold a post graduate (P.G) degree in Big data and cloud computing(Conestoga College), and Bacholers in Computer Engineering. I had worked for 2 years in Data Science playing roles as Junior Data Analyst.
 
 
 ## 🌐 Socials:
